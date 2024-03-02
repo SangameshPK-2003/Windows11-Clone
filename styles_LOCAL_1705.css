@@ -7,7 +7,6 @@ body{
     /* background-image: url(./Images/bg.jpeg); */
     background-size: cover;
     /* background-repeat: no-repeat; */
-<<<<<<< HEAD
     height: 100vh;
     overflow: hidden;
     
@@ -29,6 +28,3 @@ body{
     margin: 6px 0;
     height: 85%;
 }
-=======
-}
->>>>>>> 102092d8a3334c9372dd61e264d1a876969f89cc
