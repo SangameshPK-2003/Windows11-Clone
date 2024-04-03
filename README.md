@@ -5,15 +5,17 @@ This project is a recreation of the Windows 11 desktop page using HTML, CSS, and
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Demo](#Demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
 This project aims to replicate the Windows 11 desktop page, providing a familiar user experience to Windows users. It's built using web technologies such as HTML, CSS, and JavaScript, making it accessible and easy to use across different platforms.
+
+## Demo
+To see demo of this project just [click here!](https://sangameshpk-2003.github.io/Windows11-Clone/)
 
 ## Features
 
